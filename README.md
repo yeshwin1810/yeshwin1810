@@ -30,7 +30,7 @@
   
   ---
 ### 👉LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Harshita__07?theme=dark&font=Antic%20Slab&ext=heatmap)](https://leetcode.com/Harshita__07)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yeshwin1810?theme=dark&font=Fredoka&ext=heatmap)](https://leetcode.com/u/yeshwin1810/)
 
 
 <div align="center"> 
