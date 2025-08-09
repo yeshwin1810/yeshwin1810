@@ -1,14 +1,14 @@
 <p align="center">
-  <b><font size="8">Hi there 👋 It's me Harshita</font></b><br>
+  <b><font size="8">Hi there 👋 It's me Yeshwin</font></b><br>
   <i>Computer Science Engineering Student</i>
 </p>
 <img align="right" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="245" height="193"/>
 
 ### ✨About Me
 
-- 🎓I'm a Final Year CSE Student
-- 🌱 I’m currently exploring FullStack Development and DSA
-- 💬Open to learning and passionate about building real-world solutions
+- 🎓 I'm a Final Year CSE Student
+- 🌱 I’m currently exploring Data Analyst and DSA
+- 💬 Striving to learn, adapt, and solve real problems with creative thinking
   
 ### 📫 Connect With Me
   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-a-642628271) | [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.harshita077@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Harshita__07) |
