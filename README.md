@@ -41,4 +41,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshwin1810&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" /> 
 </div>
 
-[![Harshita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshita-A07&bg_color=141414&color=fffaff&line=ffffff&point=95e0ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yeshwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeshwin1810&bg_color=0f0f0f&color=fbeafa&line=f5f5f5&point=14d22a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
