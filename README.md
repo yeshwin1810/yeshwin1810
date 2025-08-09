@@ -7,7 +7,7 @@
 ### ✨About Me
 
 - 🎓 I'm a Final Year Computer Science Student
-- 🌱 I’m currently exploring Data Analyst and DSA
+- 🌱 I’m currently exploring Data Analysis and DSA
 - 💬 Striving to learn, adapt, and solve real problems with creative thinking
   
 ### 📫 Connect With Me
