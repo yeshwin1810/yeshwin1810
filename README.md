@@ -19,11 +19,9 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
-  <br>
-  <!-- Tools  -->
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
